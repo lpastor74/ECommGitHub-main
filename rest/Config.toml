@@ -1,0 +1,5 @@
+host = "sahackathon.mysql.database.azure.com"
+port = 3306
+user = "choreo"
+password = "wso2!234"
+database = "laslo"
